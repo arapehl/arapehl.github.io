@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-<p>
-  <small>by {{ page.author }} on 
+<p class="byline">
+  <small>
     <time datetime="{{ page.date }}">
       {% assign d = page.date | date: "%-d"  %}
       {{ page.date | date: "%A, %B" }} 
@@ -18,3 +18,4 @@ layout: default
 </p>
 {{ content }}
 <p class="text-center">&ndash;30&ndash;</p>
+<p class="text-muted"><small>Read more from the <a href="/archive/">archive</a>.</small></p>
