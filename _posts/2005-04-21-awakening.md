@@ -11,9 +11,9 @@ yourls_shorturl:
 categories:
   - Writing
 ---
-<span style="font-style: italic;">As some of you may be aware, I aspire to eventually write a novel. So in an effort to exercise my authoring abilities I&#8217;ve decided to write (very) short stories from time to time and post them here. This of course will allow me to practice while hopefully garnering </span><em style="font-style: normal;">constructive</em><span style="font-style: italic;"> criticism.</span>
+*As some of you may be aware, I aspire to eventually write a novel. So in an effort to exercise my authoring abilities I&#8217;ve decided to write (very) short stories from time to time and post them here. This of course will allow me to practice while hopefully garnering* **constructive** *criticism.*
 
-<span style="font-style: italic;">For those who are about to read: Enjoy.</span>
+*For those who are about to read: Enjoy.*
 
 Slowly, ever so slowly, the oblivion began to fade. What had been an intangible void reluctantly began to give way to darkness. Though it wasn&#8217;t much, it was still identifiable and so welcome. Next came the cloudy awareness of self, a mind trying to make sense of its environs. Familiarity was one of the first things it reported, as though the oblivion had temporarily receded several times before. Hovering on the edge of consciousness and hungry for sensory input it tried to focus through the pervading haze in order to get its bearings.
 

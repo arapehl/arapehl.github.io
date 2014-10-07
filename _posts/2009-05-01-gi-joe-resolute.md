@@ -22,9 +22,9 @@ My friend Mathieu pointed me to a new mini series of G.I. Joe videos called *Res
 
 [Wikipedia describes the series][1] as follows:
 
-> ***G.I. Joe: Resolute*** is an animated series based on the [G.I. Joe][2] franchise. It was written by [Warren Ellis][3], directed by [Joaquim Dos Santos][4], and produced by [Sam Register][5].<sup><a href="http://en.wikipedia.org/wiki/Gi_joe_resolute#cite_note-0"><span>[</span>1<span>]</span></a></sup> The series debuted on the web at [Adult Swim Video][6] April 18, 2009, with a Content Rating of <a class="mw-redirect" title="TV-14" href="http://en.wikipedia.org/wiki/TV-14">TV-14</a>-V, and premiered on U.S. cable television on [Adult Swim][7] April 26, 2009. *Resolute* departs from recent depictions of futuristic technology, adopting a more realistic aesthetic.<sup><a href="http://en.wikipedia.org/wiki/Gi_joe_resolute#cite_note-wired-1"><span>[</span>2<span>]</span></a></sup> The series has been described as a more &#8220;mature&#8221; take on the franchise.<sup><a href="http://en.wikipedia.org/wiki/Gi_joe_resolute#cite_note-2"><span>[</span>3<span>]</span></a></sup>
+> ***G.I. Joe: Resolute*** is an animated series based on the [G.I. Joe][2] franchise. It was written by [Warren Ellis][3], directed by [Joaquim Dos Santos][4], and produced by [Sam Register][5].<sup><a href="http://en.wikipedia.org/wiki/Gi_joe_resolute#cite_note-0">\[1\]</a></sup> The series debuted on the web at [Adult Swim Video][6] April 18, 2009, with a Content Rating of <a class="mw-redirect" title="TV-14" href="http://en.wikipedia.org/wiki/TV-14">TV-14</a>-V, and premiered on U.S. cable television on [Adult Swim][7] April 26, 2009. *Resolute* departs from recent depictions of futuristic technology, adopting a more realistic aesthetic.<sup><a href="http://en.wikipedia.org/wiki/Gi_joe_resolute#cite_note-wired-1">\[2\]</a></sup> The series has been described as a more &#8220;mature&#8221; take on the franchise.<sup><a href="http://en.wikipedia.org/wiki/Gi_joe_resolute#cite_note-2">\[3\]</a></sup>
 
-<span>I&#8217;ve embeded the whole mini series below, so enjoy!</span>
+I&#8217;ve embeded the whole mini series below, so enjoy!
 
  [1]: http://en.wikipedia.org/wiki/Gi_joe_resolute
  [2]: http://en.wikipedia.org/wiki/G.I._Joe "G.I. Joe"

@@ -20,7 +20,7 @@ So I ask you, what&#8217;s the deal? We fight for standards, we expend all this 
 
 I say let&#8217;s start a movement, &#8220;a zero tolerance for invalid markup&#8221; campaign of sorts. Let&#8217;s really [take back the web][3], let&#8217;s [browse happier][4]. Any takers?
 
-<span style="font-size:78%;">* I don&#8217;t specify browsers by name because all of the popular ones are equally guilty.</span>
+*\* I don&#8217;t specify browsers by name because all of the popular ones are equally guilty.*
 
  [1]: http://validator.w3.org/
  [2]: http://www.w3.org/TR/2004/REC-xml-20040204/#dt-fatal
