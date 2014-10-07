@@ -1,0 +1,22 @@
+{
+  "name": "new-site",
+  "version": "0.0.0",
+  "authors": [
+    "Ara Pehlivanian <ara.pehlivanian@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "html5shiv": "~3.7.2",
+    "respond": "https://github.com/scottjehl/Respond.git#~1.4.2",
+    "fontawesome": "~4.2.0"
+  }
+}
