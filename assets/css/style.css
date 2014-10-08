@@ -1,5 +1,9 @@
 body {
+  border-top: solid 10px black;
+  border-bottom: solid 10px LightSlateGray;
   font-family: 'Lora', serif;
+  min-height: 100vh;
+  padding: 15px 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
