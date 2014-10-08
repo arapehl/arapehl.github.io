@@ -2,10 +2,24 @@
 layout: default
 title: Archive
 ---
-<ul>
+<h1>Archive <i class="fa fa-archive"></i></h1>
+<ul class="list-unstyled">
   {% for post in site.posts %}
   <li>
-  {{ post.date | date_to_string }} <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <small>
+      <time datetime="{{ post.date }}">
+        {% assign d = post.date | date: "%-d"  %}
+        {{ post.date | date: "%A, %B" }} 
+        {% case d %}
+          {% when '1' or '21' or '31' %}{{ d }}st
+          {% when '2' or '22' %}{{ d }}nd
+          {% when '3' or '23' %}{{ d }}rd
+          {% else %}{{ d }}th
+          {% endcase %}, 
+        {{ post.date | date: "%Y" }}
+      </time>
+    </small>
+    </li>
   {% endfor %}
 </ul>
