@@ -22,31 +22,15 @@
     <![endif]-->
   </head>
   <body>
-    <nav class="navbar navbar-inverse" role="navigation">
-      <div class="container-fluid">
-        <div class="col-xs-12 col-sm-8 col-sm-offset-2 col-m-6 col-m-offset-3 col-lg-6 col-lg-offset-3">
-          <div class="navbar-header">
-            <a class="navbar-brand" href="/">Ara Pehlivanian</a>
-          </div>
-        </div>
-      </div>
-    </nav>
+    {% include universal_header.html %}
     <div class="container">
       <div class="row">
-        <div class="col-xs-12 col-sm-8 col-sm-offset-2 col-m-6 col-m-offset-3 col-lg-6 col-lg-offset-3">
+        <div class="col-xs-12 col-md-6 col-md-offset-3">
           {{ content }}
-          <hr>
-          <p class="text-muted">
-            <small>Elsewhere: <a href="http://www.amazon.com/Ara-Pehlivanian/e/B002MO0E9E/">Amazon</a>, <a href="https://twitter.com/ara_p">Twitter</a>, <a href="https://github.com/arapehl">GitHub</a>, <a href="https://medium.com/@ara">Medium</a>, <a href="http://lanyrd.com/profile/ara_p/">Lanyrd</a> or <a
-                href="https://www.linkedin.com/in/arapehl">LinkedIn</a>.
-            </small>
-          </p>
-          <p class="text-muted">
-            <small>&copy; {{ page.date | date: '%Y' }} <a href="http://arapehlivanian.com/">Ara Pehlivanian</a> All Rights Reserved</small>
-          </p>
         </div>
       </div>
     </div>
+    {% include universal_footer.html %}
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="/vendor/jquery/dist/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->

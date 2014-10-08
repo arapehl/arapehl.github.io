@@ -1,21 +1,27 @@
 body {
-  border-top: solid 10px black;
+  border-top: solid 100px black;
   border-bottom: solid 10px black;
   font-family: 'Lora', serif;
   min-height: 100vh;
 }
 
-.navbar {
-  border-radius: 0;
+.header {
+  background: black;
 }
 
-.navbar-inverse .navbar-brand {
+.brand,
+.brand:hover {
+  position: absolute;
+  top: -38px;
+  left: 10px;
   font-family: 'Bowlby One SC', cursive;
   color: white;
+  font-size: 129px;
+  text-decoration: none;
+  white-space: nowrap;
 }
-
-.navbar-inverse .navbar-brand:hover {
-  color: #777;
+.brand abbr {
+  border: none;
 }
 
 h1, h2, h3, h4, h5, h6 {
