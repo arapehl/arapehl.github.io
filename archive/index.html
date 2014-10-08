@@ -2,12 +2,12 @@
 layout: default
 title: Archive
 ---
-<h1>Archive <i class="fa fa-archive"></i></h1>
-<ul class="list-unstyled">
+<h1 class="page-header">Archive <i class="fa fa-archive"></i></h1>
+<ul class="archive list-unstyled">
   {% for post in site.posts %}
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
-    <small>
+    <small class="text-muted">
       <time datetime="{{ post.date }}">
         {% assign d = post.date | date: "%-d"  %}
         {{ post.date | date: "%A, %B" }} 

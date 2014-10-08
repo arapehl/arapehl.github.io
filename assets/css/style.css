@@ -1,15 +1,52 @@
 body {
   border-top: solid 10px black;
-  border-bottom: solid 10px LightSlateGray;
+  border-bottom: solid 10px black;
   font-family: 'Lora', serif;
   min-height: 100vh;
-  padding: 15px 0;
+}
+
+.navbar {
+  border-radius: 0;
+}
+
+.navbar-inverse .navbar-brand {
+  font-family: 'Bowlby One SC', cursive;
+  color: white;
+}
+
+.navbar-inverse .navbar-brand:hover {
+  color: #777;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Open Sans', sans-serif;
+  font-weight: 800;
   letter-spacing: -0.05em;
 }
 
+h1 img {
+  width: 36px;
+  vertical-align: top;
+}
+
+.page-header {
+  border: none;
+}
+
+.thirty {
+  margin-top: 100px;
+}
+
+time,
 .byline {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+.archive li {
+  margin-bottom: 12px;
+}
+
+.archive li time {
+  display: block;
 }
