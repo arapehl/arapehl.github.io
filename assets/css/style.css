@@ -9,6 +9,20 @@ body {
   background: black;
 }
 
+.footer {
+  margin-top: 100px;
+}
+
+.thirty {
+  margin-top: 100px;
+}
+
+.page-header {
+  padding-left: 22px;
+  text-indent: -22px;
+  margin-left: -22px;
+}
+
 .brand,
 .brand:hover {
   position: absolute;
@@ -37,10 +51,6 @@ h1 img {
 
 .page-header {
   border: none;
-}
-
-.thirty {
-  margin-top: 100px;
 }
 
 time,
