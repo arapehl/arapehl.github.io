@@ -53,6 +53,13 @@ h1 img {
   border: none;
 }
 
+.bg-warning {
+  font-family: 'Open Sans', sans-serif;
+  margin-left: -22px;
+  padding: 15px 22px;
+  border-radius: 3px;
+}
+
 time,
 .byline {
   font-family: 'Open Sans', sans-serif;
