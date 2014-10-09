@@ -1,5 +1,5 @@
 body {
-  border-top: solid 100px black;
+  border-top: solid 50px black;
   border-bottom: solid 10px black;
   font-family: 'Lora', serif;
   min-height: 100vh;
@@ -26,11 +26,11 @@ body {
 .brand,
 .brand:hover {
   position: absolute;
-  top: -38px;
+  top: -24px;
   left: 10px;
   font-family: 'Bowlby One SC', cursive;
   color: white;
-  font-size: 129px;
+  font-size: 71px;
   text-decoration: none;
   white-space: nowrap;
 }
